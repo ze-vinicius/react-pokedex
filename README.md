@@ -2,6 +2,8 @@
 
 ## About the project
 
+![Screen Prototype](./images/screen-prototype.png)
+
 A Pokédex is an electronic device built to catalog and provide information about different species of pokémons that exist around the world.
 
 And, why I'm made this project:
@@ -18,10 +20,10 @@ And, why I'm made this project:
 
 ## Features
 
-- [ ]  List pokemons
-- [ ]  Show informations about one pokemon (Abilities, moves, battle status).
-- [ ]  Add pokemon to favorites
-- [ ]  Show favorite pokemons
+- [ ] List pokemons
+- [ ] Show informations about one pokemon (Abilities, moves, battle status).
+- [ ] Add pokemon to favorites
+- [ ] Show favorite pokemons
 
 ## UI Prototype
 
