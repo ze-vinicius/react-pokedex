@@ -2,7 +2,7 @@
 
 ## About the project
 
-![Screen Prototype](./images/screen-prototype.png)
+![Print](./images/print.png)
 
 A Pokédex is an electronic device built to catalog and provide information about different species of pokémons that exist around the world.
 
