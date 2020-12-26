@@ -11,9 +11,9 @@ And, why I'm made this project:
 - I'm a pokemon fan since childhood.
 
 
-# Table of Contents
+## Table of Contents
 
-- [React Pokédex](#react-pok\xC3\xA9dex)
+- [React Pokédex](#react-pokédex)
 - [Built With](#built-with)
 - [Features](#features)
 - [UI Prototype](#ui-prototype)
@@ -23,7 +23,7 @@ And, why I'm made this project:
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
-# Built With
+## Built With
 
 the following technologies has been used to build this application 
 
@@ -32,20 +32,20 @@ the following technologies has been used to build this application
 - [Styled-Components](https://styled-components.com/)
 
 
-# Features
+## Features
 
 - [x] List pokemons
 - [ ] Show informations about one pokemon (Abilities, moves, battle status).
 - [ ] Add pokemon to favorites
 - [ ] Show favorite pokemons
 
-# UI Prototype
+## UI Prototype
 
 - [Figma](https://www.figma.com/file/lAu8IKqmoLLpCcuAEjtgzJ/pokedex-online?node-id=0%3A1)
 
-# Usage 
-## Demo
+## Usage 
+### Demo
 
 The demo is online on: [react-pokedex](https://react-pokedex-seven.vercel.app/)
 
-## 🚧  React Pokédex - Under Construction 🚧
+**🚧  React Pokédex - Under Construction 🚧**
