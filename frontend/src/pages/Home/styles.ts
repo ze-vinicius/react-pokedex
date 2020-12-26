@@ -82,11 +82,10 @@ export const TypeContainer = styled.div`
 
 export const Details = styled(Card)`
   width: 100%;
-  height: 235px;
 
   > div {
     border-radius: 8px;
-    padding: 32px;
+    padding: 24px;
     border: solid 4px #404040;
     background-color: #fff;
     width: 100%;
@@ -98,6 +97,10 @@ export const Details = styled(Card)`
 
     p {
       font-size: 32px;
+    }
+
+    p + p {
+      margin-top: 16px;
     }
   }
 `;
