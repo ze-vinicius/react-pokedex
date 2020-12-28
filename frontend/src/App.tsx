@@ -6,7 +6,11 @@ import { BrowserRouter } from 'react-router-dom';
 import Routes from './routes';
 import GlobalStyle from './styles/global';
 
-setConfiguration({ gutterWidth: 20 });
+setConfiguration({
+  gutterWidth: 20,
+  defaultScreenClass: 'lg',
+  maxScreenClass: 'lg',
+});
 
 const App: React.FC = () => {
   return (

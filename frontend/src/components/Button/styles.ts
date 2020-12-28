@@ -17,7 +17,7 @@ export const Container = styled.button`
 
   &:hover {
     background: ${shade(0.2, '#2888EE')};
-    box-shadow: -2px -2px ${shade(0.6, '#2888EE')} inset;
+    box-shadow: -1px -1px ${shade(0.6, '#2888EE')} inset;
   }
 
   color: #ffff;

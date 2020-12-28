@@ -106,7 +106,11 @@ export const Details = styled(Card)`
 `;
 
 export const PokeList = styled(Card)`
-  height: 95vh;
+  /* flex: 1; */
+  height: 100%;
+  max-height: 570px;
+  /* max-height: px; */
+  margin-top: 8px;
 
   > div {
     border-radius: 8px;
@@ -116,7 +120,21 @@ export const PokeList = styled(Card)`
     background-color: #fff;
     width: 100%;
     height: 100%;
+    div > p {
+      text-align: center;
+      color: #bdbdbd;
+      margin-top: 32px;
+    }
   }
+`;
+
+export const Search = styled.input`
+  border-radius: 8px;
+  padding: 13px 16px;
+  font-size: 24px;
+  border: solid 4px #404040;
+  background-color: #fff;
+  width: 100%;
 `;
 
 interface ItemProps {
