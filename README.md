@@ -35,6 +35,7 @@ the following technologies has been used to build this application
 ## Features
 
 - [x] List pokemons
+- [x] Search pokémon by name or id
 - [ ] Show informations about one pokemon (Abilities, moves, battle status).
 - [ ] Add pokemon to favorites
 - [ ] Show favorite pokemons
