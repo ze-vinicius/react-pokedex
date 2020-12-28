@@ -1,7 +1,6 @@
 import React, {
   ChangeEvent,
   FormEvent,
-  FormEventHandler,
   InputHTMLAttributes,
   useCallback,
   useState,
@@ -10,7 +9,7 @@ import React, {
 import { Container } from './styles';
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
-  handleSearch(id: string): Promise<any>;
+  handleSearch(id: string): Promise<void>;
 }
 
 const SearchInput: React.FC<InputProps> = ({ handleSearch, ...rest }) => {

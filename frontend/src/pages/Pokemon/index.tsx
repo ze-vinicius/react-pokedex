@@ -9,9 +9,7 @@ interface IPokemonRouterProps {
 
 type IPokemonProps = RouteComponentProps<IPokemonRouterProps>;
 
-const Pokemon: React.FC<IPokemonProps> = ({ match }) => {
-  const { id } = match.params;
-
+const Pokemon: React.FC<IPokemonProps> = () => {
   return <div />;
 };
 
